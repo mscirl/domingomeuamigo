@@ -1,0 +1,10 @@
+# Dependencies and environment
+venv_domingo/
+.env
+
+# Stories directory
+/stories/
+
+# Editor/IDE
+.vscode/
+.idea/
