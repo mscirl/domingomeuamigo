@@ -1,6 +1,9 @@
 # Dependencies and environment
 venv_domingo/
 .env
+__pycache__/
+.pytest_cache/
+*.pyc
 
 # Stories directory
 /stories/
